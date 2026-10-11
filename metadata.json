@@ -1,0 +1,6 @@
+{
+  "name": "ATELIER NOIR",
+  "description": "Boutique de lujo contemporáneo, accesorios y objetos de diseño exclusivo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
